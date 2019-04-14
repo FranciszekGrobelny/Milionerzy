@@ -1,0 +1,12 @@
+C:\Users\FRANEK\Desktop\Miliardezry\Miliardezry\Miliardezry\bin\Debug\Miliardezry.exe.config
+C:\Users\FRANEK\Desktop\Miliardezry\Miliardezry\Miliardezry\bin\Debug\Miliardezry.exe
+C:\Users\FRANEK\Desktop\Miliardezry\Miliardezry\Miliardezry\bin\Debug\Miliardezry.pdb
+C:\Users\FRANEK\Desktop\Miliardezry\Miliardezry\Miliardezry\obj\Debug\Miliardezry.csprojResolveAssemblyReference.cache
+C:\Users\FRANEK\Desktop\Miliardezry\Miliardezry\Miliardezry\obj\Debug\Miliardezry.Properties.Resources.resources
+C:\Users\FRANEK\Desktop\Miliardezry\Miliardezry\Miliardezry\obj\Debug\Miliardezry.csproj.GenerateResource.cache
+C:\Users\FRANEK\Desktop\Miliardezry\Miliardezry\Miliardezry\obj\Debug\Miliardezry.csproj.CoreCompileInputs.cache
+C:\Users\FRANEK\Desktop\Miliardezry\Miliardezry\Miliardezry\obj\Debug\Miliardezry.exe
+C:\Users\FRANEK\Desktop\Miliardezry\Miliardezry\Miliardezry\obj\Debug\Miliardezry.pdb
+C:\Users\FRANEK\Desktop\Miliardezry\Miliardezry\Miliardezry\obj\Debug\Miliardezry.FormGame.resources
+C:\Users\FRANEK\Desktop\Miliardezry\Miliardezry\Miliardezry\obj\Debug\Miliardezry.FromTop10.resources
+C:\Users\FRANEK\Desktop\Miliardezry\Miliardezry\Miliardezry\obj\Debug\Miliardezry.FormMenu.resources
